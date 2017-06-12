@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea48f982207eee44aa8799f7a4f58cc5
+timeCreated: 1496774232
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - targetMesh: {instanceID: 0}
+  - lineTexGen: {fileID: 7200000, guid: 1b099ada5a4aa28439170e6da42e89af, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
